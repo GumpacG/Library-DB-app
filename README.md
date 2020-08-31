@@ -45,4 +45,4 @@ This app uses SQL and python to manage the database of a simple library consisti
 
 
 ## Entity-Relationship Diagram
-![Diagram](https://raw.github.com/GumpacG/Library-DB-app/master/"ER diagram.png")
+![Diagram](https://raw.github.com/GumpacG/Library-DB-app/master/ERdiagram.png)
