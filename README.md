@@ -3,7 +3,7 @@ This app uses SQL and python to manage the database of a simple library consisti
 
 
 
-## Project Specifications:
+## Project Specifications
 * Library has print books, online books, magazines, scientific journals, CDs, records, etc.
 * People can borrow the items from library and return by the due date.
 * People may be subject to fines if they do not return items by the due date.
